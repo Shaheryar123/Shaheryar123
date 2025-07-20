@@ -71,7 +71,7 @@ I’ve contributed to projects across fintech, blockchain, edtech, and GIS autom
 
 ## 📚 Education
 
-**MS Computer Science**  
+**MSc Geo Information Science**  
 _University of Karachi (2020–2021)  
 Focus on: Databases, GIS, Software Engineering, Data Structures
 
@@ -81,12 +81,12 @@ Focus on: Databases, GIS, Software Engineering, Data Structures
 
 I'm currently open to:
 - Full-time remote/hybrid opportunities
-- Part-time freelance roles ($1500/mo+)
+- Part-time freelance roles
 - Fast-paced startup collaborations
 
 📧 **Email:** shaheryarjerry@gmail.com  
 📍 **Location:** Dubai, UAE  
-🌍 **Languages:** English, Urdu, Arabic (basic)
+🌍 **Languages:** English, Urdu/Hindi
 
 ---
 
