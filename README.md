@@ -36,12 +36,13 @@ I’ve contributed to projects across fintech, blockchain, edtech, and GIS autom
 
 | Name | Description | Stack | Links |
 |------|-------------|-------|-------|
-| **Payyd** | Full-scale fintech platform with CI/CD and cross-platform UI | `Next.js`, `Node.js`, `GCP` | [GitHub](https://github.com/shaheryar123) |
-| **NFT Dashboard** | Blockchain dashboard with Web3 wallet integration | `React`, `Node`, `Web3`, `Three.js` | — |
-| **CryptoClash** | Crypto game and NFT-based interaction | `React`, `Solidity`, `Firebase` | — |
-| **AI Tutor** | AI-powered tutoring web app | `Next.js`, `OpenAI`, `Express` | — |
-| **Splendid Accounts** | Multi-role accounting dashboard | `React`, `Node.js`, `MongoDB` | — |
-| **DirectPay** | Payment gateway interface | `React`, `Node.js`, `Stripe API` | — |
+| **Payyd** | Full-scale fintech platform with CI/CD and cross-platform UI | `Next.js`, `GraphQL`, `Azure` | [URL](https://payyd.money/) |
+| **NFT Dashboard** | Blockchain dashboard with Web3 wallet integration | `React`, `Node`, `Web3`, `Three.js` | [URL](https://dashbo.xyz/) |
+| **CryptoClash** | Crypto game and NFT-based interaction | `React`, `Solidity`, `Firebase` | [URL](https://payyd.money/) |
+| **AI Tutor** | AI-powered tutoring web app | `Next.js`, `OpenAI`, `Express` | [URL](https://yourteacher.ai/) |
+| **Splendid Accounts** | Multi-role accounting dashboard | `React Native`, `Node.js`, `SQL` | [URL](https://play.google.com/store/apps/details?id=com.isplendid.invoicing&pli=1/) |
+| **DirectPay** | Payment gateway interface | `React`, `Node.js`, `Nextjs` | [URL](https://directpay.money/) |
+| **Factory Universe** | Realtime Bidding Social App | `React Native`, `GraphQL`, `Expo` | [URL](https://play.google.com/store/apps/details?id=com.factoryuniverse&hl=en&gl=US/) |
 
 > 🎯 *Want to see these in action?* Visit [my portfolio](https://shaheryar.immifellow.com)
 
