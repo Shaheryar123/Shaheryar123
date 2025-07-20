@@ -37,6 +37,8 @@ I’ve contributed to projects across fintech, blockchain, edtech, and GIS autom
 | Name | Description | Stack | Links |
 |------|-------------|-------|-------|
 | **Payyd** | Full-scale fintech platform with CI/CD and cross-platform UI | `Next.js`, `GraphQL`, `Azure` | [URL](https://payyd.money/) |
+| **ApeLyze** | Dashboard for ApeChain Users for swaping, minting alert, and whale data | `Next.js`, `SupaBase`, `GCP` | [URL](https://www.apelyze.com/) |
+| **ImmiFellow** | Connects the people who want to immigrate to the people aleady immigrated | `Next.js`, `Node.js`, `GCP` | [URL](https://immifellow.com/) |
 | **NFT Dashboard** | Blockchain dashboard with Web3 wallet integration | `React`, `Node`, `Web3`, `Three.js` | [URL](https://dashbo.xyz/) |
 | **CryptoClash** | Crypto game and NFT-based interaction | `React`, `Solidity`, `Firebase` | [URL](https://payyd.money/) |
 | **AI Tutor** | AI-powered tutoring web app | `Next.js`, `OpenAI`, `Express` | [URL](https://yourteacher.ai/) |
